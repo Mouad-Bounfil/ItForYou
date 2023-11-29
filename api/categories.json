@@ -1,0 +1,167 @@
+[
+  {
+    "_id": {
+      "$oid": "653bce42526a196dcb945574"
+    },
+    "name": "Website Development",
+    "sub": [
+      "Business Websites",
+      "E-commerce Development",
+      "Landings Pages",
+      "Blogs",
+      "Build a Complete Website"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "653bcee4526a196dcb945575"
+    },
+    "name": "Website Platforms",
+    "sub": [
+      "WordPress",
+      "Shopify",
+      "Wix",
+      "Custom Websites",
+      "GoDaddy"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "653bcf59526a196dcb945576"
+    },
+    "name": "Website Maintenance",
+    "sub": [
+      "Website Customization",
+      "Bug Fixes",
+      "Backup & Migration",
+      "Speed Optimization"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "653bcfcf526a196dcb945577"
+    },
+        "name": "Website Development",
+        "sub": [
+          "Business Websites",
+          "E-commerce Development",
+          "Landings Pages",
+          "Blogs",
+          "Build a Complete Website"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd03f526a196dcb945578"
+    },
+        "name": "Software Development",
+        "sub": [
+          "Python Developers",
+          "HTML & CSS Developers",
+          "AJavaScript Developers",
+          "Java Developers",
+          "PHP Developers",
+          "QA & Review"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd0bd526a196dcb945579"
+    },
+        "name": "Software Developers",
+        "sub": [
+          "Python Developers",
+          "HTML & CSS Developers",
+          "JavaScript Developers",
+          "Java Developers",
+          "PHP Developers"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd0ec526a196dcb94557a"
+    },
+        "name": "QA & Review",
+        "sub": [
+          "Software Testing",
+          "Code Review",
+          "Design Review",
+          "User Testing"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd15b526a196dcb94557b"
+    },
+        "name": "Mobile App Development",
+        "sub": [
+          "Android Developers",
+          "iOS Developers",
+          "Cross-platform Apps",
+          "App Customization",
+          "Bug Fixes"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd1ce526a196dcb94557c"
+    },
+        "name": "Game Development",
+        "sub": [
+          "PC Games",
+          "Mobile Games",
+          "Console Games",
+          "VR Games",
+          "Game Mods"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd2e0526a196dcb94557d"
+    },
+        "name": "Support & Cybersecurity",
+        "sub": [
+          "DevOps & Cloud",
+          "Support & IT",
+          "Cybersecurity",
+          "Convert Files"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd36f526a196dcb94557e"
+    },
+        "name": "Al Development",
+        "sub": [
+          "Al Integrations",
+          "Al Websites",
+          "Al Chatbots",
+          "ChatGPT Applications",
+          "Al Agents"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd3a0526a196dcb94557f"
+    },
+        "name": "Chatbots",
+        "sub": [
+          "Discord Chatbots",
+          "Telegram Chatbots",
+          "Chatbot Development"
+        ]
+  },
+  {
+    "_id": {
+      "$oid": "653bd3e6526a196dcb945580"
+    },
+        "name": "Miscellaneous",
+        "sub": [
+          "Electronics Engineering",
+          "Development for Streamers",
+          "Blockchain & Cryptocurrency",
+          "NFT Development",
+          "Online Coding Lessons"
+        ]
+  }
+]
